@@ -1,0 +1,12 @@
+canvas {
+	border: 1px solid white;
+	
+	
+}
+
+#palette {
+background-color: gray;
+height:50px;
+width:300px;
+float: right;
+}
