@@ -10,3 +10,7 @@ height:50px;
 width:300px;
 float: right;
 }
+
+canvas {
+	position: absolute; left: 0; top: 0;
+}
